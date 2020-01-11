@@ -1,2 +1,2 @@
 # Misc
-Scripts are outside the the projects
+Scripts that are outside the the projects
