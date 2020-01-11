@@ -1,2 +1,2 @@
 # Misc
-Scripts that are outside the projects
+Scripts that are outside of the projects
